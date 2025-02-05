@@ -1,4 +1,6 @@
-## Hey 👋, I'm Aliaksei. Senior Software Testing Engineer.  
+# 💫 About Me:
+Hi, I'm Aliaksei.
+Senior Software Testing Engineer. Working with Linux-based OS, Python/Bash automatization, Cloud Providers etc.
   
 
 <a href="https://github.com/inki92" target="_blank">
@@ -8,33 +10,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
-### Glad to see you here!  
-Senior Software Testing Engineer. Working with Linux-based OS, Python/Bash automatization, Cloud Providers etc.  
-  
-
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently interesting in AI technologies  
-  
-
-- ❓ Ask me about anything related to Linux stack and related technologies  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -67,29 +43,9 @@ Senior Software Testing Engineer. Working with Linux-based OS, Python/Bash autom
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=inki92&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inki92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inki92&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+[![](https://visitcount.itsvg.in/api?id=inki92&icon=0&color=0)](https://visitcount.itsvg.in)
