@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Aliaksei.
-Senior Software Testing Engineer. Working with Linux-based OS, Python/Bash automatization, Cloud Providers etc.
+Senior Software Engineer in Test. Working with Linux-based OS, Python/Bash automatization, Cloud Providers etc.
   
 
 <a href="https://github.com/inki92" target="_blank">
